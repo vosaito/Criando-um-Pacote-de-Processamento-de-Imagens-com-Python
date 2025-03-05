@@ -1,3 +1,6 @@
+## Site do PyPI para visualização do desafio: 
+https://pypi.org/project/image-processing-vosaito/
+
 # Image-processing-package-vosaito
 
 ## Description.
